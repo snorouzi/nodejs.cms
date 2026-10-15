@@ -70,8 +70,8 @@ npm run start
 We would like to thank the following individuals who have contributed to the development of this application:
 
 ![avatar](https://images.weserv.nl/?url=https://github.com/hesammousavi.png?h=150&w=150&fit=cover&mask=circle&maxage=5d)
-‎ ‎ ‎ ![avatar](https://images.weserv.nl/?url=https://github.com/saeedNW.png?h=150&w=150&fit=cover&mask=circle&maxage=5d)
+‎ ‎ ‎ ![avatar](https://images.weserv.nl/?url=https://github.com/snorouzi.png?h=150&w=150&fit=cover&mask=circle&maxage=5d)
 
 [**Hesam Mousavi - Supervisor and instructor of the node.js programming course**](https://github.com/hesammousavi/)
 
-[**Saeed Norouzi - Back-end Developer**](https://github.com/saeedNW)
+[**Saeed Norouzi - Back-end Developer**](https://github.com/snorouzi)
